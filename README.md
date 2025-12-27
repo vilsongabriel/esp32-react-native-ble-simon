@@ -6,6 +6,14 @@ Project developed for the **Introduction to IoT Development** course in the Mobi
 
 A Genius (Simon) style game that combines IoT hardware with a mobile app. The player must repeat color and sound sequences that progressively increase in difficulty.
 
+## Screenshoots
+
+<p float="left">
+  <img width="300" alt="Initial screen" src="https://github.com/user-attachments/assets/f989fa71-6b4d-40c1-ad09-059bc7d98cd9" />
+  <img width="300" alt="Game Over Screen" src="https://github.com/user-attachments/assets/d656e600-a81d-49a3-87cd-67f78932930a" />
+</p>
+
+
 ## Architecture
 
 ```
