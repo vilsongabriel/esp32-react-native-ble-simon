@@ -1,0 +1,5 @@
+{
+  "name": "genius-game",
+  "private": true,
+  "description": "Jogo Genius com ESP32, React Native e API de ranking"
+}
